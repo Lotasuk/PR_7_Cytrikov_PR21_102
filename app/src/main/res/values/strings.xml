@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PR-7_Cytrikov_PR-21.102</string>
+    <string name="TextView1">Михаил</string>>
+    <string name="TextView2">Приветствуем в нашен приложении!</string>>
+    <string name="TextView3">Предложения</string>>
+    <string name="TextView4">Подробная информация</string>>
+
+    /*Contacts*/
+    <string name="TextView5">Шрек</string>>
+    <string name="TextView6">Donkey</string>>
+    <string name="TextView7">Губка Боб</string>>
+    <string name="TextView8">Лыс</string>>
+    <string name="TextView9">Патрик</string>>
+    <string name="TextView10">Эрнест</string>>
+
+
+    /*Registration */
+    <string name="TextView13">Регистрация</string>>
+    <string name="TextView14">Помощь</string>>
+    <string name="TextView15">Вход</string>>
+    <string name="TextView16">Зарегистрироваться</string>>
+    <string name="TextView17">Согласен(-а) с условиями использования и политикой конфиденциальности</string>>
+</resources>
